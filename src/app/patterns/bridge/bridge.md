@@ -1,0 +1,2 @@
+**Comparison to Strategy pattern**
+Unlike strategy pattern, the bridge supposes that the abstraction layer class hierachy can scale as well staying compatible with all existing payment providers and the abstraction class hierarchy can be scaled either by just extending the current payment class.
